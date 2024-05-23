@@ -1,4 +1,4 @@
-name: Deploy to AWS ECR-2
+name: Deploy to AWS ECR
 #updated AWS Repo week3-lab3
 on: 
   push:
