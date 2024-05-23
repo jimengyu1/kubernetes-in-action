@@ -1,5 +1,5 @@
 name: Deploy to AWS ECR-2
-#updated AWS Repo
+#updated AWS Repo week3-lab3
 on: 
   push:
     branches: [ master ]
